@@ -57,7 +57,7 @@ export default {
 
     // Global CSS (https://go.nuxtjs.dev/config-css)
     css: [
-        // "~/assets/css/custom.css",
+        "~/assets/css/custom.css",
         // "~/assets/bootstrap/bootstrap.min.css",
     ],
 
